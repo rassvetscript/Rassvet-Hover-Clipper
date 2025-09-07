@@ -4,7 +4,7 @@ Privacy Policy for Hover Clipper Chrome Extension
 Effective Date: September 7, 2025
 
 1. Introduction
-Hover Clipper is a Chrome Extension developed by [Your Name/Company]. This Privacy Policy explains how we handle user data. We do not collect, store, or share any personal information.
+Hover Clipper is a Chrome Extension developed by Rassvet Script. This Privacy Policy explains how we handle user data. We do not collect, store, or share any personal information.
 
 2. Data Collection
 - Hover Clipper does not collect any personal or sensitive data, such as browsing history, emails, or identifiers.
@@ -18,5 +18,5 @@ Hover Clipper is a Chrome Extension developed by [Your Name/Company]. This Priva
 4. Changes to This Policy
 We may update this policy. Check this page for changes.
 
-Contact: [Your Email or Contact Info]
+Contact: rassvetscript@gmail.com
 
