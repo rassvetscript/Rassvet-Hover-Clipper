@@ -1,2 +1,22 @@
 # Rassvet-Hover-Clipper
-Chromium Extension
+Privacy Policy for Hover Clipper Chrome Extension
+
+Effective Date: September 7, 2025
+
+1. Introduction
+Hover Clipper is a Chrome Extension developed by [Your Name/Company]. This Privacy Policy explains how we handle user data. We do not collect, store, or share any personal information.
+
+2. Data Collection
+- Hover Clipper does not collect any personal or sensitive data, such as browsing history, emails, or identifiers.
+- The extension only accesses the URL of hovered links/images for clipboard copying, which happens locally on your device.
+- No data is transmitted to servers or third parties.
+
+3. Permissions
+- "clipboardWrite": Used solely to copy URLs to your clipboard.
+- "<all_urls>": Required to run on any webpage for hover detection; no data is read or stored beyond the URL.
+
+4. Changes to This Policy
+We may update this policy. Check this page for changes.
+
+Contact: [Your Email or Contact Info]
+
