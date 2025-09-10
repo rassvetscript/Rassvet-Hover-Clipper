@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "瞬间复制链接或图片——悬停并按 Shift 即可。按下 Option 或 Alt 键可直接以 Markdown 获取。",
+    "description": "A brief description of the extension's functionality"
+  }
+}

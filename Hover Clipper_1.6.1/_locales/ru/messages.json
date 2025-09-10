@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "HКопируйте ссылки и изображения за мгновение — просто наведите курсор и нажмите Shift. Добавьте Option или Alt, чтобы забрать их в Markdown.",
+    "description": "A brief description of the extension's functionality"
+  }
+}
