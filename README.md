@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
-<a href="[mailto:(이메일 주소)](https://chromewebstore.google.com/detail/rassvet-hover-clipper/kecmcejecfcjflefddacapgjfjhegapp)" target="_blank">
+<a href="https://chromewebstore.google.com/detail/rassvet-hover-clipper/kecmcejecfcjflefddacapgjfjhegapp" target="_blank">
 <img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"/>
 </a>
 
