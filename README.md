@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://img.shields.io/badge/Visual Studio-3DDC84?style=flat&logo=Visual Studio&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=Visual Studio&logoColor=white"/>
     <br>
 </div>
 
