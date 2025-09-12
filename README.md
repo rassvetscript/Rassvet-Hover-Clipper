@@ -1,5 +1,7 @@
-<h3 align="center"><b><img src="https://img.shields.io/badge/Visual Studio-3DDC84?style=flat&logo=Visual Studio&logoColor=white"/></b></h3>
-<div align="center">
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual Studio-3DDC84?style=flat&logo=Visual Studio&logoColor=white"/>
+    <br>
+</div>
 
 </div>
 
