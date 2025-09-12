@@ -1,3 +1,8 @@
+<h3 align="center"><b>Code Lang</b></h3>
+<div align="center">
+
+</div>
+
 # Rassvet Hover Clipper
 
 Effortlessly capture links and images with a simple hover and Shift. Add Option or Alt for instant Markdown formatting. A subtle flash confirms every grab—swift, accurate, and perfectly in sync with your workflow.
