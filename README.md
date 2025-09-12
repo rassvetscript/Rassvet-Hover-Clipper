@@ -1,7 +1,4 @@
-<div align=center>
-	<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=Spring&logoColor=white"/>
-    <br>
-</div>
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 
 # Rassvet Hover Clipper
