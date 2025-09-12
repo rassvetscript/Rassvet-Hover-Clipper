@@ -3,7 +3,6 @@
     <br>
 </div>
 
-</div>
 
 # Rassvet Hover Clipper
 
