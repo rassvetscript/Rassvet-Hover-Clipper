@@ -1,6 +1,8 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"> 
-[![Get Now](<img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"> )](https://chromewebstore.google.com/detail/rassvet-hover-clipper/kecmcejecfcjflefddacapgjfjhegapp)
+<a href="[mailto:(이메일 주소)](https://chromewebstore.google.com/detail/rassvet-hover-clipper/kecmcejecfcjflefddacapgjfjhegapp)" target="_blank">
+<img src="[https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white)"/>
+</a>
+
 
 
 # Rassvet Hover Clipper
