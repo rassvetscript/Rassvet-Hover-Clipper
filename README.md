@@ -5,18 +5,15 @@ Effortlessly capture links and images with a simple hover and Shift. Add Option 
 Built for productivity enthusiasts, Hover Clipper turns web browsing into seamless note-taking. No data collection, just pure efficiency.
 
 ## Key Features
-- ***Instant Copy***: Hover over a link or image and press **Shift** to copy the URL.
-- **Clear URL Mode**: Clear URL Mode is a feature that extracts URLs that exclude query parameters contained within URLs. The Alt+Shift+C shortcut makes it easy to turn on and off.
-- **Markdown Mode**: Hold Option (⌥ on macOS) or Alt to copy as ready-to-paste Markdown.
+- **Instant Copy**: Hover over a link or image and press ***Shift*** to copy the URL.
+- **Clear URL Mode**: Clear URL Mode is a feature that extracts URLs that exclude query parameters contained within URLs. The ***Option+Shift+C*** shortcut makes it easy to turn on and off.
+- **Markdown Mode**: Hold ***Option (⌥ on macOS) or Alt*** to copy as ready-to-paste Markdown.
 - **Visual Feedback**: Crisp animation confirms each action.
-- **Cross-Platform**: Works on Chrome for Windows, macOS, and Linux.
+- **Cross-Platform**: Works on Chrome for macOS, Windows, and Linux.
 - **Privacy-Focused**: No tracking, no servers—everything happens locally.
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/yourusername/hover-clipper.git`
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable "Developer mode" and click "Load unpacked".
-4. Select the cloned folder.
+We're getting ready!
 
 For the latest release, check the [Releases](https://github.com/yourusername/hover-clipper/releases) page.
 
