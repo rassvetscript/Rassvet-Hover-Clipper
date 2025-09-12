@@ -6,6 +6,7 @@ Built for productivity enthusiasts, Hover Clipper turns web browsing into seamle
 
 ## Key Features
 - **Instant Copy**: Hover over a link or image and press Shift to copy the URL.
+- **Clear URL Mode**: Clear URL Mode is a feature that extracts URLs that exclude query parameters contained within URLs. The Alt+Shift+C shortcut makes it easy to turn on and off.
 - **Markdown Mode**: Hold Option (⌥ on macOS) or Alt to copy as ready-to-paste Markdown.
 - **Visual Feedback**: Crisp animation confirms each action.
 - **Cross-Platform**: Works on Chrome for Windows, macOS, and Linux.
