@@ -1,0 +1,74 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "ホバーしてShiftキーを押すだけ。手間不要のリンクコピー。",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "クリーンURLモード",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "コピーしたURLからクエリとパラメータを削除します。",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "オン",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "オフ",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "サポートに連絡",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "サポートが必要、またはフィードバックがありますか？いつでもメールをお送りください。",
+    "description": ""
+  },
+  "donate": {
+    "message": "寄付する",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "拡張機能を気に入りましたか？開発者にドーナツをおごって応援してください！",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "情報",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "ショートカット設定へ移動",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Chromiumのポリシーにより、キーボードショートカットはデフォルトで手動設定が必要です。",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URLがクリップボードにコピーされました",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipperが準備できました",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "バージョン",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "公式ウェブサイト",
+    "description": ""
+  }
+}

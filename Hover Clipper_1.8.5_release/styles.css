@@ -1,0 +1,57 @@
+/* 공통 툴팁 (기존 + blur 효과 추가) */
+.common-tooltip {
+  position: fixed;
+  left: 50%;
+  top: 10%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  font-family: sans-serif;
+  font-size: 14px;
+  border-radius: 15px;
+  z-index: 1000000000;
+  text-align: center;
+  max-width: 80%;
+  word-break: break-all;
+  opacity: 0;
+  transition: opacity 125ms; /* 크로스 페이드 */
+  pointer-events: none;
+  box-sizing: border-box; /* 패딩·크기 유지 */
+  border: 1px solid transparent; /* 공간 예약 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 기본 그림자 (부드러운 효과) */ /* x-offset 0, y-offset 4px, blur 10px, 색상 투명도 0.1 */  
+  backdrop-filter: blur(8px); /* 배경 블러 효과 (뒤 콘텐츠 블러) */ /* 블러 강도 조정 가능, 5-10px 추천 */
+  -webkit-backdrop-filter: blur(8px); /* Safari 호환 */
+}
+
+/* 라이트 모드: 1.25 px 회색 테두리 + 밝은 배경 */
+.tooltip-light {
+  border: 1.25px solid rgba(223,226,230,0.8);
+  background-color: rgba(255,255,255,0.5); /* 약간 투명하게 해서 블러 효과 강조 */
+  color: var(--text-primary,#000);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* 라이트 모드용 그림자: 더 부드럽고 가벼운 효과 */ /* 약간 강한 블러로 입체감 강조 */
+}
+
+/* 다크 모드: 1.25 px 어두운 테두리 + 어두운 배경 */
+.tooltip-dark {
+  border: 1.25px solid rgba(64,67,71,0.8);
+  background-color: rgba(28,28,30,0.5); /* 약간 투명하게 해서 블러 효과 강조 */
+  color: var(--text-primary,#fff);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5); /* 다크 모드용 그림자: 더 깊고 강한 효과 */ /* 어두운 배경에 맞춰 블랙 쉐도우 강조 */
+}
+
+
+/* 텍스트 색・강조 색상 변수 (기존 유지) */
+:root {
+  --text-primary: #000;
+  --url-highlight: rgba(0,104,0,1);
+  --on-highlight: rgba(0,104,0,1);
+  --off-highlight: rgba(182,0,0,1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-primary: #fff;
+    --url-highlight: rgba(115,255,120,1);
+    --on-highlight: rgba(115,255,120,1);
+    --off-highlight: rgba(255,132,70,1);
+  }
+}

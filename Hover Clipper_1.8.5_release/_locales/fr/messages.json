@@ -1,0 +1,74 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Il suffit de survoler puis d’appuyer sur Shift. Copie de liens sans effort.",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Mode URL épurée",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Les requêtes et paramètres sont supprimés de l’URL copiée.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "ACTIVÉ",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "DÉSACTIVÉ",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Contacter le support",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "Besoin d’aide ou de retours ? Envoyez-nous un e-mail à tout moment.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Faire un don",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "L’extension vous plaît ? Offrez un donut au développeur pour le soutenir !",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "À propos",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Aller aux paramètres des raccourcis",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Selon la politique de Chromium, les raccourcis clavier doivent être configurés manuellement par défaut.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URL copiée dans le presse-papier",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper est prêt",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Version",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Site officiel",
+    "description": ""
+  }
+}

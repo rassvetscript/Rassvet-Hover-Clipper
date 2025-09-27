@@ -1,0 +1,74 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Просто наведите курсор и нажмите Shift. Легкое копирование ссылок.",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Режим очистки URL",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Из скопированного URL удаляются параметры и строки запроса.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "ВКЛ",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "ВЫКЛ",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Связаться с поддержкой",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "Нужна помощь или есть отзыв? Напишите нам на почту в любое время.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Пожертвовать",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "Нравится расширение? Купите разработчику пончик и поддержите его!",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "Информация",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Перейти к настройкам ярлыков",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Согласно политике Chromium, сочетания клавиш по умолчанию задаются вручную.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URL скопирован в буфер обмена",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper готов к использованию",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Версия",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Официальный сайт",
+    "description": ""
+  }
+}
