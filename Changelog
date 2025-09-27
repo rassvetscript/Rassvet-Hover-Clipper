@@ -1,0 +1,28 @@
+Version History:
+- v1.0.0 (2025-09-05): Initial version. Implemented link copying with Shift key.
+- v1.1.0 (2025-09-06): Added OS-specific Meta key based Markdown copying.
+- v1.2.0 (2025-09-06): Implemented visual feedback.
+- v1.3.0 (2025-09-06): Added Chinese language support.
+- v1.4.0 (2025-09-07): Replaced Meta key with Alt key. Added Russian, Japanese, Spanish support.
+- v1.4.1 (2025-09-07): Optimized visual feedback animation.
+- v1.5.0 (2025-09-09): Added 1-second tooltip for copied URL.
+- v1.5.1 (2025-09-09): Applied pointer-events: none to tooltips to avoid interference.
+- v1.6.0 (2025-09-10): Added Clean URL mode (remove query params). Toggle with Alt+Shift+C, show tooltip.
+- v1.6.1 (2025-09-10): Set Clean URL mode ON by default. Persist state with localStorage.
+- v1.6.3 (2025-09-11): Adjusted toggle message display.
+- v1.6.4 (2025-09-11): Improved overlap prevention for tooltips (showModeTooltip and showCopiedUrlTooltip).
+- v1.6.7 (2025-09-11): Applied cross-fade effect for tooltip transitions.
+- v1.6.8 (2025-09-11): Improved cross-fade timing (consistent duration, shortened to 75ms).
+- v1.6.9 (2025-09-12): Code Style Optimizing
+- v1.6.10 (2025-09-13): Centralized tooltip styles in CSS for better maintainability and efficiency.
+- v1.7.0 (2025-09-13): Added automatic light/dark mode switching with CSS variables for better visibility.
+- v1.7.1 (2025-09-14): Colour contrast optimization.
+- v1.7.2 (2025-09-14): Added backdrop-blur to tooltip backgrounds; applied dynamic border-radius (pill for 1-line, rounded-rect for multi-line); minor color-contrast tweaks.
+- v1.7.3 (2025-09-14): Implementing shadow effects for the toggle message.
+- v1.7.4 (2025-09-20): Reorganization of the multilingual support system
+- v1.8.0 (2025-09-20): GUI System Implementation
+- v1.8.1 (2025-09-20): Change Checkbox to Toggle Switch
+- v1.8.2 (2025-09-20): Popup Window Visual Enhanced
+- v1.8.3 (2025-09-20): Modernization of the invocation structure for Clean URL mode switching notification messages.
+- v1.8.4 (2025-09-20): Improvement of accessibility for keyboard shortcut settings.
+- v1.8.5 (2025-09-22): Enhancing Multilingual Support Framework
