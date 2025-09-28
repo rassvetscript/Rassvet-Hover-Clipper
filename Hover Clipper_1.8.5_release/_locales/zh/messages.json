@@ -1,0 +1,78 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "只需悬停并按Shift，轻松复制链接。",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "切换 Clean URL 模式",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "清理 URL 模式",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "已删除复制链接中的查询和参数。",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "启用",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "禁用",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "联系支持",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "需要帮助或反馈？随时给我们发送电子邮件。",
+    "description": ""
+  },
+  "donate": {
+    "message": "捐赠",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "喜欢此扩展？请请开发者吃个甜甜圈，以示支持！",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "关于",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "前往快捷键设置",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "根据 Chromium 政策，键盘快捷键默认必须手动设置。",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "链接已复制到剪贴板",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper 已就绪",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "版本",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "官方网站",
+    "description": ""
+  }
+}

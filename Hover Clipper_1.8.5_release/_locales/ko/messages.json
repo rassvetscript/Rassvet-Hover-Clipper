@@ -1,0 +1,78 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "그냥 호버하고 Shift만 누르면 손쉬운 링크 복사.",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "Clean URL 모드 전환",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Clean URL 모드",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "복사된 URL에서 쿼리와 매개변수가 제거됩니다.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "활성화",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "비활성화",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "지원 문의",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "도움이 필요하거나 피드백이 있으시다면 전자메일로 문의가 가능합니다.",
+    "description": ""
+  },
+  "donate": {
+    "message": "후원하기",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "이 프로그램이 유용했길 바랍니다. 개발자에게 도넛을 지원할 수 있습니다.",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "정보",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "단축키 설정하러 가기",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Chromium 정책에 따라 키보드 단축키는 기본적으로 수동으로 설정해야 합니다.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "클립보드에 URL이 복사되었습니다",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper가 준비되었습니다",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "버전",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "공식 웹사이트",
+    "description": ""
+  }
+}
