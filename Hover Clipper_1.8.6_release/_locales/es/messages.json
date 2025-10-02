@@ -1,0 +1,78 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Simplemente coloca el cursor y presiona Shift. Copiado de enlaces sin esfuerzo.",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "Alternar modo Clean URL",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Modo URL limpia",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Se eliminan consultas y parámetros de la URL copiada.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "ACTIVADO",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "DESACTIVADO",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Contactar soporte",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "¿Necesitas ayuda o comentarios? Envíanos un correo en cualquier momento.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Donar",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "¿Te gusta la extensión? ¡Invita al desarrollador a un donut y ayúdanos a seguir adelante!",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "Acerca de",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Configuración de atajo",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Según la política de Chromium, los atajos de teclado deben configurarse manualmente por defecto.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URL copiada al portapapeles",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper está listo",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Versión",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Sitio web oficial",
+    "description": ""
+  }
+}
