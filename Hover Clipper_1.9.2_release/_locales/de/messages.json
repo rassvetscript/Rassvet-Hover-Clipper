@@ -1,0 +1,82 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Kopiere Links mühelos — bewege den Mauszeiger, drücke Shift, fertig.",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "Clean URL-Modus umschalten",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Clean URL-Modus",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Abfragen und Parameter werden aus der kopierten URL entfernt.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "AN",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "AUS",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Support kontaktieren",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "Hilfe oder Feedback? Senden Sie uns jederzeit eine E-Mail.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Spenden",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "Ich hoffe, dieses Programm war hilfreich. Ein einzelner Donut bedeutet dem Entwickler viel.",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "Über",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Tastenkürzel einstellen",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Gemäß der Chromium-Richtlinie müssen Tastenkombinationen standardmäßig manuell festgelegt werden.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URL in Zwischenablage kopiert",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper ist jetzt bereit",
+    "description": ""
+  },
+  "notificationMessage": {
+    "message": "In einigen Chromium-Browsern werden Tastenkürzel möglicherweise nicht automatisch zugewiesen. Bitte lege Alt+C manuell fest.",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Version",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Offizielle Website",
+    "description": ""
+  }
+}
