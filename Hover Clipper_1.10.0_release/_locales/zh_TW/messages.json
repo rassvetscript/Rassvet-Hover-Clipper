@@ -1,0 +1,82 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "輕鬆複製連結——將滑鼠懸停並按下 Shift 鍵即可。",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "切換淨化 URL 模式",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "淨化 URL 模式",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "複製連結時將移除查詢參數。",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "啟用",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "停用",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "聯絡支援",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "需要幫助或有回饋？隨時寄送電子郵件給我們。",
+    "description": ""
+  },
+  "donate": {
+    "message": "捐贈",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "希望這個程式對您有所幫助。一個甜甜圈對開發者來說意義重大。",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "關於",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "快速鍵設定",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "根據 Chromium 政策，鍵盤快速鍵預設必須手動設定。",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "連結已複製到剪貼簿",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper 已就緒",
+    "description": ""
+  },
+  "notificationMessage": {
+    "message": "在部分 Chromium 瀏覽器中，快速鍵可能不會自動指派。請手動設定 Alt+C。",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "版本",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "官方網站",
+    "description": ""
+  }
+}
