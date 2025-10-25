@@ -1,0 +1,86 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Effortlessly copy links — hover, hit Shift, and done.",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "Toggle Clean URL mode",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "settings": {
+    "message": "Settings",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Clean URL mode",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Queries and parameters are removed from the copied URL.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "ON",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "OFF",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Contact Support",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "Need help or have feedback? Send us an email anytime.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Donate",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "I hope this program was helpful. A single donut means a lot to the developer.",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "About",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Setting Shortcut",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "According to Chromium's policy, keyboard shortcuts must be set manually by default.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "Copied URL to clipboard",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper is Now Ready",
+    "description": ""
+  },
+  "notificationMessage": {
+    "message": "In some Chromium browsers, shortcuts may not be assigned automatically. Please set Alt+C manually.",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Version",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Official Website",
+    "description": ""
+  }
+}

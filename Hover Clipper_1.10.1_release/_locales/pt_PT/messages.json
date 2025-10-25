@@ -1,0 +1,86 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Copie links facilmente — passe o rato, pressione Shift e está feito.",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "Alternar modo Clean URL",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "settings": {
+    "message": "Definições",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Modo URL limpo",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Consultas e parâmetros são removidos do URL copiado.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "ATIVADO",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "DESATIVADO",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Contactar suporte",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "Precisa de ajuda ou tem comentários? Envie-nos um e-mail a qualquer momento.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Doar",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "Espero que este programa tenha sido útil. Um único donut significa muito para o programador.",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "Acerca de",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Configuração de atalho",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "De acordo com a política do Chromium, os atalhos de teclado têm de ser configurados manualmente por predefinição.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URL copiado para a área de transferência",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper está pronto",
+    "description": ""
+  },
+  "notificationMessage": {
+    "message": "Em alguns navegadores Chromium, os atalhos podem não ser atribuídos automaticamente. Defina o Alt+C manualmente.",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Versão",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Sítio web oficial",
+    "description": ""
+  }
+}

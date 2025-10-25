@@ -1,0 +1,86 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Copiez des liens en toute simplicité — survolez, appuyez sur Shift, et c'est fait.",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "Basculer le mode Clean URL",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "settings": {
+    "message": "Paramètres",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "Mode URL épurée",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "Les requêtes et paramètres sont supprimés de l'URL copiée.",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "ACTIVÉ",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "DÉSACTIVÉ",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "Contacter le support",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "Besoin d'aide ou de retours ? Envoyez-nous un e-mail à tout moment.",
+    "description": ""
+  },
+  "donate": {
+    "message": "Faire un don",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "J'espère que ce programme vous a été utile. Un seul donut compte beaucoup pour le développeur.",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "À propos",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "Configuration du raccourci",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "Selon la politique de Chromium, les raccourcis clavier doivent être configurés manuellement par défaut.",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "URL copiée dans le presse-papier",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper est prêt",
+    "description": ""
+  },
+  "notificationMessage": {
+    "message": "Dans certains navigateurs Chromium, les raccourcis peuvent ne pas être attribués automatiquement. Veuillez définir Alt+C manuellement.",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "Version",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "Site officiel",
+    "description": ""
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "extensionName": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "轻松复制链接——悬停并按下 Shift 键即可。",
+    "description": ""
+  },
+  "togglecleanurlmode": {
+    "message": "切换净化 URL 模式",
+    "description": ""
+  },
+  "popupTitle": {
+    "message": "Rassvet Hover Clipper",
+    "description": ""
+  },
+  "settings": {
+    "message": "设置",
+    "description": ""
+  },
+  "cleanUrlMode": {
+    "message": "净化 URL 模式",
+    "description": ""
+  },
+  "cleanUrlDescription": {
+    "message": "复制链接时将移除查询参数。",
+    "description": ""
+  },
+  "cleanUrlModeOn": {
+    "message": "启用",
+    "description": ""
+  },
+  "cleanUrlModeOff": {
+    "message": "禁用",
+    "description": ""
+  },
+  "contactSupport": {
+    "message": "联系支持",
+    "description": ""
+  },
+  "contactSupportDescription": {
+    "message": "需要帮助或有反馈？随时给我们发送电子邮件。",
+    "description": ""
+  },
+  "donate": {
+    "message": "捐赠",
+    "description": ""
+  },
+  "donateDescription": {
+    "message": "希望这个程序对您有帮助。一个甜甜圈对开发者来说意义重大。",
+    "description": ""
+  },
+  "aboutinfo": {
+    "message": "关于",
+    "description": ""
+  },
+  "settingShortcut": {
+    "message": "快捷键设置",
+    "description": ""
+  },
+  "settingShortcutDescription": {
+    "message": "根据 Chromium 政策，键盘快捷键默认必须手动设置。",
+    "description": ""
+  },
+  "copied_url": {
+    "message": "链接已复制到剪贴板",
+    "description": ""
+  },
+  "notificationTitle": {
+    "message": "Hover Clipper 已就绪",
+    "description": ""
+  },
+  "notificationMessage": {
+    "message": "在部分 Chromium 浏览器中，快捷键可能不会自动分配。请手动设置 Alt+C。",
+    "description": ""
+  },
+  "softwareVersion": {
+    "message": "版本",
+    "description": ""
+  },
+  "officialWebsite": {
+    "message": "官方网站",
+    "description": ""
+  }
+}
